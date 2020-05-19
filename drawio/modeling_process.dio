@@ -1,0 +1,78 @@
+<mxfile host="localhost" modified="2020-05-19T11:15:00.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="f75_axrZDddy2yrnjMFF" version="13.0.9">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1060" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry y="40" width="800" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;strokeWidth=3;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="問題設定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="80" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;strokeWidth=3;" parent="1" source="4" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="データ選定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="80" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.588;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;entryPerimeter=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="680" y="200" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="760" y="120"/>
+                            <mxPoint x="760" y="260"/>
+                            <mxPoint x="40" y="260"/>
+                            <mxPoint x="40" y="367"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="データの前処理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="80" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;strokeWidth=3;" parent="1" source="6" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="機械学習&lt;br style=&quot;font-size: 16px;&quot;&gt;モデルの選定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="320" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;strokeWidth=3;" parent="1" source="7" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="モデルの学習&lt;br style=&quot;font-size: 16px;&quot;&gt;（パラメータの推定）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="320" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="モデルの評価" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="320" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="どのような課題を&lt;br style=&quot;font-size: 13px;&quot;&gt;機械学習で解決したいのか" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="170" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="どのようなデータを&lt;br style=&quot;font-size: 13px;&quot;&gt;使用するか" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="170" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="機械が扱いやすいデータに&lt;br style=&quot;font-size: 13px;&quot;&gt;変換&lt;br style=&quot;font-size: 13px;&quot;&gt;ex. ベクトル化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="170" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="どの機械学習モデルを&lt;br style=&quot;font-size: 13px;&quot;&gt;利用するか" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="410" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="パラメータの決め方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="410" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="ハイパーパラメータの選定&lt;br style=&quot;font-size: 13px;&quot;&gt;モデルの精度を測る" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="410" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font color=&quot;#ff0000&quot;&gt;複数のモデルを&lt;br&gt;組み合わせることが多い&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="460" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="ハイパーパラメータ&lt;br&gt;↓&lt;br&gt;人が手動で調整する値" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="460" width="160" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
