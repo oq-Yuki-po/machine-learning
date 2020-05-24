@@ -1,0 +1,112 @@
+<mxfile host="localhost" modified="2020-05-24T09:24:10.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="MWFW2rzDPFPjH5eB-yaP" version="13.0.9">
+    <diagram id="sgbDI9h6rJG_W9Ao1J6n" name="Page-1">
+        <mxGraphModel dx="1077" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;align=left;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="40" width="760" height="1000" as="geometry"/>
+                </mxCell>
+                <mxCell id="M6F7Y6Qgms-tEjVPZww9-1" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 16px ; background-color: rgb(235 , 237 , 238)&quot;&gt;$$ \bf I=\begin{pmatrix} 1 &amp;amp; 0 \\ 0 &amp;amp; 1 \end{pmatrix} $$&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=#F0F0F0;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="190" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;単位行列&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="160" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-6" value="2×2の行列" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F0F0F0;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="10" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-12" value="加算" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;fontSize=14;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="280" y="60" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-19" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; background-color: rgb(235, 237, 238);&quot;&gt;$$ \begin{pmatrix} a &amp;amp; b \\ c &amp;amp; d \end{pmatrix}+\begin{pmatrix} e &amp;amp; f \\ g &amp;amp; h \end{pmatrix}=\begin{pmatrix} a+e &amp;amp; b+f \\ c+g &amp;amp; d+h \end{pmatrix} $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="90" width="340" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;スカラー倍&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="160" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-25" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; background-color: rgb(235, 237, 238);&quot;&gt;$$ n\times \begin{pmatrix} a &amp;amp; b \\ c &amp;amp; d \end{pmatrix}=\begin{pmatrix} na &amp;amp; nb \\ nc &amp;amp; nd \end{pmatrix} $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="190" width="230" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-26" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; background-color: rgb(235, 237, 238);&quot;&gt;$$ \begin{pmatrix} a_{1} &amp;amp; a_{2} \\ a_{3} &amp;amp; a_{4} \end{pmatrix}\begin{pmatrix} b_{1} &amp;amp; b_{2} \\ b_{3} &amp;amp; b_{4} \end{pmatrix}=\begin{pmatrix} a_{1}b_{1}+a_{2}b_{3} &amp;amp; a_{1}b_{2}+a_{2}b_{4} \\ a_{3}b_{1}+a_{4}b_{4} &amp;amp; a_{3}b_{2}+a_{4}b_{4} \end{pmatrix} $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="300" width="450" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-29" value="&lt;span style=&quot;font-size: 14px&quot;&gt;積&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="260" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-30" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; background-color: rgb(235, 237, 238);&quot;&gt;$$ \begin{pmatrix} b_{1} &amp;amp; b_{2} \\ b_{3} &amp;amp; b_{4} \end{pmatrix}\begin{pmatrix} a_{1}a_{2} \\ a_{3}a_{4} \end{pmatrix}= $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="380" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-31" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#F0F0F0;strokeColor=#FF0000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="292.5" y="289" as="sourcePoint"/>
+                        <mxPoint x="360" y="289" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pqQxKEiKLSefVZD03Xkg-34" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#F0F0F0;strokeColor=#FF0000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="414" y="305" as="sourcePoint"/>
+                        <mxPoint x="414" y="345" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-1" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 16px ; background-color: rgb(235 , 237 , 238)&quot;&gt;$$ \bf O=\begin{pmatrix} 0 &amp;amp; 0 \\ 0 &amp;amp; 0 \end{pmatrix} $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="90" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;零行列&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="60" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-4" value="&lt;span style=&quot;font-size: 16px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(235, 237, 238); float: none; display: inline;&quot;&gt;$$ \bf O=\begin{pmatrix} 0 &amp;amp; 0 &amp;amp; 0&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;\\ 0 &amp;amp; 0 &amp;amp; 0 \\ 0 &amp;amp; 0 &amp;amp; 0&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;\end{pmatrix} $$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;align=left;fontStyle=0;fontFamily=Helvetica;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="550" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;零行列&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="520" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-8" value="&lt;span style=&quot;font-size: 16px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(235, 237, 238); float: none; display: inline;&quot;&gt;$$ \bf I=\begin{pmatrix} 1 &amp;amp; 0 &amp;amp; 0&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;\\ 0 &amp;amp; 1 &amp;amp; 0 \\ 0 &amp;amp; 0 &amp;amp; 1&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;\end{pmatrix} $$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;align=left;fontStyle=0;fontFamily=Helvetica;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="670" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;単位行列&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="640" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-12" value="加算" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;fontSize=14;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="280" y="520" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-13" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 16px ; background-color: rgb(235 , 237 , 238)&quot;&gt;$$ \begin{pmatrix} a &amp;amp; b &amp;amp; c\\ d &amp;amp; e &amp;amp; f \\ g &amp;amp; h &amp;amp; i \end{pmatrix}+\begin{pmatrix} j &amp;amp; k &amp;amp; l \\ m &amp;amp; n &amp;amp; o \\ p &amp;amp; q &amp;amp; r \end{pmatrix}=\begin{pmatrix} a+j &amp;amp; b+k &amp;amp; c + l \\ d+ m &amp;amp; e + n &amp;amp; f + o \\ g+p&amp;nbsp; &amp;amp; h + q &amp;amp; i + r\end{pmatrix} $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="550" width="490" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-15" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; background-color: rgb(235 , 237 , 238)&quot;&gt;$$ \begin{pmatrix} a_{1} &amp;amp; a_{2} &amp;amp; a_{3} \\ a_{4} &amp;amp; a_{5} &amp;amp; a_{6} \\ a_{7} &amp;amp; a_{8} &amp;amp; aa \end{pmatrix}\begin{pmatrix} b_{1} &amp;amp; b_{2} &amp;amp; b_{3} \\ b_{4} &amp;amp; b_{5} &amp;amp; b_{6} \\ b_{7} &amp;amp; b_{8} &amp;amp; b_{9} \end{pmatrix} = $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="800" width="280" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-16" value="&lt;span style=&quot;font-size: 14px&quot;&gt;積&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="770" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;スカラー倍&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="650" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-20" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; background-color: rgb(235 , 237 , 238)&quot;&gt;$$ n\times \begin{pmatrix} a_{1} &amp;amp; a_{2} &amp;amp; a_{3} \\ a_{4} &amp;amp; a_{5} &amp;amp; a_{6} \\ a_{7} &amp;amp; a_{8} &amp;amp; a_{9} \end{pmatrix}= $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="680" width="195" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-23" value="&lt;span style=&quot;font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; background-color: rgb(235 , 237 , 238)&quot;&gt;$$ \begin{pmatrix} b_{1} &amp;amp; b_{2} &amp;amp; b_{3} \\ b_{4} &amp;amp; b_{5} &amp;amp; b_{6} \\ b_{7} &amp;amp; b_{8} &amp;amp; b_{9} \end{pmatrix}\begin{pmatrix} a_{1} &amp;amp; a_{2} &amp;amp; a_{3} \\ a_{4} &amp;amp; a_{5} &amp;amp; a_{6} \\ a_{7} &amp;amp; a_{8} &amp;amp; a_{q} \end{pmatrix} = $$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#F0F0F0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="890" width="280" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-28" value="3×3の行列" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F0F0F0;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="55" y="470" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-29" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#F0F0F0;strokeColor=#FF0000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="800" as="sourcePoint"/>
+                        <mxPoint x="400" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cFrnXZa0UHIxWIcmk_6P-31" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#F0F0F0;strokeColor=#FF0000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="460" y="800" as="sourcePoint"/>
+                        <mxPoint x="460" y="880" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="460" y="840"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
