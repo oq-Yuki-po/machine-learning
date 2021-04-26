@@ -1,7 +1,7 @@
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
-
+# 目次 {ignore=true}
 - [目標](#目標)
 - [Introduction](#introduction)
 - [Importance of Text Preprocessing](#importance-of-text-preprocessing)
@@ -16,8 +16,6 @@
 - [Everything Together Now and Next Steps](#everything-together-now-and-next-steps)
 
 <!-- /code_chunk_output -->
-
-# 目次 {ignore=true}
 
 ## 目標
 [NLP Text Preprocessing: A Practical Guide and Template | by Jiahao Weng | Towards Data Science](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79)の要約をメモする
